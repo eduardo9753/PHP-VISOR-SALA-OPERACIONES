@@ -13,7 +13,7 @@ HERRAMIENTAS :
 3. CONTROLADOR: intermediario entre el Modelo y la Vista, gestionando el flujo de información entre ellos y las transformaciones para adaptar los datos a las necesidades de cada uno.
 
 ## Imagenes
-Vista Administrador:
+Vista Familiar:
 - 1
 ![SOP01_FAMILIAR](https://user-images.githubusercontent.com/68178186/169623191-21b8074f-3c33-4baf-9823-60aeb7cd6f3b.PNG)
 
